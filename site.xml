@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/net.wedjaa.jasper.elasticsearch.elasticjasperfeature_1.7.1.201507302004.jar" id="net.wedjaa.jasper.elasticsearch.elasticjasperfeature" version="1.7.1.201507302004">
+   <feature url="features/net.wedjaa.jasper.elasticsearch.elasticjasperfeature_2.2.0.201602051642.jar" id="net.wedjaa.jasper.elasticsearch.elasticjasperfeature" version="2.2.0.201602051642">
       <category name="net.wedjaa.jasper.plugins"/>
    </feature>
    <category-def name="net.wedjaa.jasper.plugins" label="Jaspersoft Studio Plugins from Wedjaa Open Initiative">
