@@ -1,7 +1,7 @@
 ElasticJasperSite
 =================
 
-You can install the plugin in your Jaspersoft Studio 6.0.0 or later versions. 
+You can install the plugin in your Jaspersoft Studio 6.2.2 or later versions. 
 
 To add this plugin first add as an update site the following address:
 
